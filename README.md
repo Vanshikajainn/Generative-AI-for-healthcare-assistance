@@ -1,1 +1,1 @@
-# skin-disease-detection
+# generative AI for skin-disease-detection
